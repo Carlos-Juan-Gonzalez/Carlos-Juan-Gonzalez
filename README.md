@@ -45,5 +45,4 @@ Desarrollo de una página web para una empresa de cerrajería y metalurgia. El s
 ## 📫 Contacto  
 - ✉️ [Email](carlosjuangonzalez99@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlos-juan-gonzalez)
-- 
 ---
